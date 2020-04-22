@@ -1,7 +1,7 @@
 # CPPND: Memory Management Chatbot
 https://confirm.udacity.com/9PL6RSGE
 
-![SensorFusion_Certificate](sensorFusion_certificate.png)
+![Cpp_certificate](Cpp_certificate.png)
 
 This is the project for the third course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Memory Management.
 
